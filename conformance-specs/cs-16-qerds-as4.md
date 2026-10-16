@@ -1,11 +1,17 @@
-# QeRDS Four-Corner AS4 Conformance Specification
+# WE BUILD - Conformance Specification CS-16: Inter-QTSP Message Relay (QERDS AS4)
 
-**Status**: Draft 
+Version 1.0
+
 **Scope**: C2 (Sender QeRDS Provider) ↔ C3 (Recipient QeRDS Provider) inter-provider channel, and the QeRDS evidence artifacts obligation
+
 **Profiles**: CEF eDelivery AS4 Profile 2.0 (profiling OASIS AS4 Profile of ebMS 3.0 v1.0); ETSI EN 319 522 (Parts 1–4)
+
 **Context**: This work sits within the WE BUILD consortium's QERDS-for-European-Business-Wallets architecture ([WEBUILD-ARCH]) — see §2 and §4 for how this document's C1–C4 scope maps onto that model
+
 **Citation scheme**: See `AS4CONF-<AREA>-<seq>` IDs throughout — see §3 and this feature's Clause Citation Scheme contract for the stability contract
+
 **Author**: Alejandro Nieto Gallego — DigitelTS
+
 **Contributors**: David Sánchez  - DigitelTS 
 
 ---
